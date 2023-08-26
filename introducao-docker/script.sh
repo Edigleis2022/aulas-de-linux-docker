@@ -1,5 +1,6 @@
 # Hello World
-docker run hello-world
+docker run hello-world # Criar um container de forma persistente
+docker run --rm hello-world # Criar um container temporário
 
 #Listar os containers
 docker container list #Comando que lista todos os containers em execução
