@@ -32,4 +32,4 @@ docker ssytem prune --all -f
 
 
 ##### CONTAINER COM EXECUÇAO CONSTANTE #####
-docker run --name nginx -p 80:80 -d nginx:1.25-alpine
+docker run --name nginx1 -p 80:80 -d nginx:1.25-alpine
